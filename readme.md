@@ -13,7 +13,7 @@
 - 在網頁最下方，寫下 What and why you did，點選 `Commit changes`.
 
 ### 3.檢視遊戲與繳交作業連結到平台
-- 點進去網頁右側的 `Settings` 按鈕，
+- 點進去網頁右側的 `Settings` 按鈕(齒輪圖示)，
 - 找到 `Your site is published at : http://你的ID.github.io/assign1/` 請點進去確認是否能看到遊戲畫面。如果看不到畫面請參考以下步驟：
   1. 請確認你的程式碼沒有錯誤訊息，
   2. 你是否已經驗證過你 github 的註冊信箱，
